@@ -1,2 +1,14 @@
 # igamehot-archive
-HTML page archive and documentation
+
+页面内容归档仓库
+
+发布生成的页面会被写入这里，形成一组可访问的静态文件。
+
+## 仓库结构
+
+- `README.md`：说明文本
+- `*.html`：可发布页面
+
+## 更新记录
+
+仓库会根据发布流程持续更新，内容以实际提交为准。
